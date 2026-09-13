@@ -6,6 +6,13 @@ What is 996?
 伟大的996icu创建了关于996的项目
 
 # 996HELLO
+
+为承德程序员所遭受的不公正待遇发声，此案影响深远，严重性远超 996 问题。
+
+链接：[翻墙访问国际互联网打工被处罚百万](https://v2ex.com/t/976757)
+
+![image](https://github.com/996icu/996.ICU/assets/48942249/4e1906eb-ac5b-4b33-9470-bf422a345fba)
+
 ## 劳动权益规范科普开源项目
 
 [![License](https://img.shields.io/badge/License-Anti--996--v1.0-000000)](LICENSE)
